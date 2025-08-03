@@ -53,16 +53,5 @@ This is part of my AI for Medical Diagnosis exploration and academic research pr
 - Train on larger, multi-class datasets
 - Deploy as a diagnostic support tool in low-resource areas
 
----
 
-## 🧑‍💻 Author
-
-**Abla Rabia** – Final-year CS Engineering Student at ESI Algiers  
-💼 [LinkedIn](https://linkedin.com/in/abla-rabia) · 📬 [Email](mailto:la_rabia@esi.dz)
-
----
-
-## 📌 License
-
-For educational and research purposes only.
 
