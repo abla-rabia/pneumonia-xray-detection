@@ -36,14 +36,14 @@ This is part of my AI for Medical Diagnosis exploration and academic research pr
 
 ## 📈 Performance
 
-| Metric     | Score (example) |
+| Metric     | Score           |
 |------------|-----------------|
-| Accuracy   | 92%             |
-| Precision  | 91%             |
-| Recall     | 93%             |
-| F1-Score   | 92%             |
+| Accuracy   | 88%             |
+| Precision  | 89%             |
+| Recall     | 88%             |
+| F1-Score   | 87%             |
 
-> Note: Exact results may vary depending on training conditions.
+
 
 ---
 
